@@ -1,0 +1,21 @@
+.odd-number {
+  background-color: pink;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.cooler-odd-number {
+  font-size: 24px;
+}
+
+#id1 {
+  color: blue;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+#id2 {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: palegreen;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
